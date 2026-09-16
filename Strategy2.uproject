@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.5",
+	"Category": "Games",
+	"Description": "PROJECT 1864 Unreal P0A battle prototype",
+	"Modules": [
+		{
+			"Name": "Strategy2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

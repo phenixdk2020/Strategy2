@@ -1,0 +1,7 @@
+PROJECT 1864 - Unreal Battle Prototype
+Channel: Strategy2
+Engine: Unreal Engine 5.5+
+Prototype version: P0A-UE v00.00.08 TEST
+Design manual baseline: v00.02.08
+Unity reference: phenixdk2020/Strategy P0A v00.00.08
+NEXT: Officer AI after this slice compiles in UE.
